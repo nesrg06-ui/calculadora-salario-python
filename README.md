@@ -11,3 +11,8 @@ Entrada de datos del usuario (input) y conversión de tipos (float).
 Estructuras condicionales (if / else).
 
 Operadores aritméticos para el cálculo de nómina.
+
+Resultado final:
+ingrese las horas que trabajo: 45
+ingrese la tarifa por hora: 10
+El pago total es: $475.0
